@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Example]]></title>
-            <link>https://craftdataengineer.github.io/blog/example</link>
+            <link>https://craftdataengineer.github.io/blog/blog/example</link>
             <guid>example</guid>
             <pubDate>Tue, 23 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
